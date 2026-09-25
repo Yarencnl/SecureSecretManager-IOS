@@ -1,0 +1,21 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser
+*.xcuserstate
+*.xcscmblueprint
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# SPM
+.swiftpm/
+.build/
+
+# CocoaPods (kullanılmazsa da zararı yok)
+Pods/
+
+# Secrets - ASLA COMMIT ETME
+*.env
+Secrets.swift
