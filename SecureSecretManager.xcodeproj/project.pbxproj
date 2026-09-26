@@ -10,22 +10,9 @@
 		E8901F7D3067157F00C90021 /* SecureSecretManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecureSecretManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		E8901FC93067E30D00C90021 /* Exceptions for "SecureSecretManager" folder in "SecureSecretManager" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Persistence/SecureSecretManager.xcdatamodeld,
-			);
-			target = E8901F7C3067157F00C90021 /* SecureSecretManager */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		E8901F7F3067157F00C90021 /* SecureSecretManager */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				E8901FC93067E30D00C90021 /* Exceptions for "SecureSecretManager" folder in "SecureSecretManager" target */,
-			);
 			path = SecureSecretManager;
 			sourceTree = "<group>";
 		};
